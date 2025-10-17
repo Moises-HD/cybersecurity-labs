@@ -5,6 +5,14 @@ Incluye trabajos técnicos sobre análisis forense, bastionado de sistemas, hack
 
 El objetivo de este laboratorio es reflejar mi experiencia práctica aplicando herramientas y metodologías profesionales dentro del ámbito de la ciberseguridad.
 
+## 📁 Contenidos del repositorio
+
+- 🕵️ [Análisis Forense](./analysis-forensics)
+- 🔒 [Bastionado de Redes y Sistemas](./system-hardening)
+- 🧠 [Hacking Ético](./ethical-hacking)
+- 🚨 [Incidentes de Ciberseguridad](./incident-response)
+- ⚖️ [Normativa de Ciberseguridad](./cybersecurity-regulations)
+- 🧱 [Puesta en Producción Segura](./secure-deployment)
 
 ## 🔍 Análisis Forense
 
@@ -96,3 +104,4 @@ No se incluyen datos reales ni configuraciones pertenecientes a sistemas en prod
 
 ---
 Este repositorio forma parte de mi desarrollo profesional en el ámbito de la ciberseguridad, combinando la parte técnica y la aplicación de buenas prácticas de seguridad.
+
