@@ -102,6 +102,10 @@ Las prácticas y ejemplos incluidos tienen fines educativos y se han realizado e
 No se incluyen datos reales ni configuraciones pertenecientes a sistemas en producción.
 
 
+## 🧾 **Licencia:** [MIT](./LICENSE)
+
+
 ---
 Este repositorio forma parte de mi desarrollo profesional en el ámbito de la ciberseguridad, combinando la parte técnica y la aplicación de buenas prácticas de seguridad.
+
 
